@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn==1.9.0git add requirements.txt
+scikit-learn==1.9.0
 
