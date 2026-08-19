@@ -1,0 +1,6 @@
+model,cv_roc_auc,best_params
+logreg,0.8449363233665558,"{'model__C': 0.1, 'model__penalty': 'l2'}"
+svm,0.8439396456256922,"{'model__C': 0.1, 'model__gamma': 'scale', 'model__kernel': 'linear'}"
+knn,0.8243092469545958,"{'model__n_neighbors': 11, 'model__weights': 'distance'}"
+dt,0.7956215393133996,"{'model__max_depth': 3, 'model__min_samples_split': 2}"
+rf,0.837735326688815,"{'model__max_depth': 5, 'model__max_features': 'sqrt', 'model__n_estimators': 500}"
